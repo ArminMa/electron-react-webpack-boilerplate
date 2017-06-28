@@ -1,4 +1,4 @@
-# electron-react-webpack-boilerplate
+cd# electron-react-webpack-boilerplate
 
 Electron + webpack + Babel + React + CSS Modules + cssnext
 
